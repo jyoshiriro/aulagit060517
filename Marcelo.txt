@@ -1,3 +1,4 @@
+ESSE É O QUE VALE!
 <<<<<<< HEAD
 Projeto Compartilhado
 Marcelo.txt - sabado 06-05-17
@@ -5,3 +6,6 @@ Marcelo.txt - sabado 06-05-17
 Nao quero o Yoshi mexendo nos meus arquivos!!!
 GitHub compartilhado projeto Marcelo
 >>>>>>> c68966b9b843685a366576db8af25de6bb0ef526
+
+
+ESSE É O QUE VALE!
